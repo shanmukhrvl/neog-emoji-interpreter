@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&family=Open+Sans:ital,wght@1,300&display=swap");
+
+body {
+  background: #1f2937;
+  color: white;
+}
+
+.App {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  max-width: 650px;
+  margin: auto;
+}
+
+h1 {
+  font-family: "Mountains of Christmas", cursive;
+}
+
+input {
+  width: 70%;
+  margin: auto;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background: #ecfccb;
+  font-size: 1rem;
+}
+
+h2 {
+  color: #fecaca;
+}
